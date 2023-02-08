@@ -1,0 +1,11 @@
+# Site settings
+title: YOUR NAME
+email: YOUR EMAIL
+description: >
+YOUR ADDRESS MAYBE
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://YOUR_GITHUB_ID.github.io" # the base hostname & protocol for your site
+github_username:  YOUR_GITHUB_ID
+encoding: UTF-8
+# Build settings
+markdown: kramdown
