@@ -1,0 +1,13 @@
+# standard-website
+This is a standardized materials to build a personal website that looks like "doeun-kim.github.io".
+It requires some basic understandings of HTML.
+
+Here are the steps to follow:
+1. Create your own Github account (your github ID will be a part of your website's address: <your_github_id>.github.io
+2. Fork this repository 
+3. Go to the forked repository and change the title of the repository to: <your_github_id>.github.io
+4. Customize header.html, footer.html, and index.html
+5. In your repository, go to 'setting' > 'Pages' to set your github page 
+6. Add more html pages and customize your website
+
+Now go to "<your_github_id>.github.io" to check your website
