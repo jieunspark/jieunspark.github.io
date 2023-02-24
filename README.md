@@ -3,9 +3,9 @@ This is a standardized materials to build a personal website that looks like "do
 It requires some basic understandings of HTML.
 
 Here are the steps to follow:
-1. Create your own Github account (your github ID will be a part of your website's address: <your_github_id>.github.io
+1. Create your own Github account (your github ID will be a part of your website's address: *your_github_id*.github.io
 2. Fork this repository 
-3. Go to the forked repository and change the title of the repository to: <your_github_id>.github.io
+3. Go to the forked repository and change the title of the repository to: *your_github_id*.github.io
 4. Customize header.html, footer.html, and index.html 
   - All things you need to change are marked with brackets, [ ] 
 6. delete "README.md" file in the repository
