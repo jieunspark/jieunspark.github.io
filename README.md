@@ -7,7 +7,7 @@ Here are the steps to follow:
 2. Fork this repository 
 3. Go to the forked repository and change the title of the repository to: <your_github_id>.github.io
 4. Customize header.html, footer.html, and index.html 
-  - All things you need to change are marked with brackets, [] 
+  - All things you need to change are marked with brackets, [ ] 
 6. delete "README.md" file in the repository
 7. In your repository, go to 'setting' > 'Pages' to set your github page as following: 
   - Source: Deploy from a branch
