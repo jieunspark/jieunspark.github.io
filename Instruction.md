@@ -7,7 +7,12 @@ Here are the steps to follow:
 2. Fork this repository 
 3. Go to the forked repository and change the title of the repository to: <your_github_id>.github.io
 4. Customize header.html, footer.html, and index.html
-5. In your repository, go to 'setting' > 'Pages' to set your github page 
-6. Add more html pages and customize your website
+5. In your repository, go to 'setting' > 'Pages' to set your github page as following: 
+  - Source: Deploy from a branch
+  - Branch: main - /(root) 
+  Then, click "save"
+7. Add more html pages and customize your website
 
 Now go to "<your_github_id>.github.io" to check your website
+
+It might take some time for your website to be updated after you make any changes in your repository (less than 5 minutes usually)
