@@ -1,6 +1,6 @@
 # standard-website
 This is a standardized materials to build a personal website that looks like "doeun-kim.github.io".
-It requires some basic understandings of HTML.
+To build your own personal website with this, it requires some basic understandings of HTML.
 
 Here are the steps to follow:
 1. Create your own Github account (your github ID will be a part of your website's address: *your_github_id*.github.io
