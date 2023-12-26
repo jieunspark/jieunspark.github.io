@@ -1,0 +1,13 @@
+# Site settings
+title: Jieun Park
+email: pjefly@gmail.com
+description: >
+ Department of Political Science
+ Bunche Hall
+ Los Angeles, CA 90095
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jieunspark.github.io/test/" # the base hostname & protocol for your site
+github_username:  jieunspark
+encoding: UTF-8
+# Build settings
+markdown: kramdown
