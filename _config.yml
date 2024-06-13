@@ -6,7 +6,7 @@ description: >
  Bunche Hall
  Los Angeles, CA 90095
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jieunspark.github.io/test/" # the base hostname & protocol for your site
+url: "http://jieunspark.github.io" # the base hostname & protocol for your site
 github_username:  jieunspark
 encoding: UTF-8
 # Build settings
