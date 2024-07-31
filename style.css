@@ -51,6 +51,13 @@ img {
     font-weight: bold;
     font-style: italic;
 }
+.content{
+    font-size: 16px;
+    font-weight: bold;
+}
+.content_add{
+    font-size: 16px;
+}
 .paper_title{
     font-size: 17px;
     font-weight: bold;
