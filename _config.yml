@@ -1,10 +1,10 @@
 # Site settings
 title: Jieun S. Park
-email: jieunpark25@ucla.edu
+email: jpark2@cord.edu
 description: >
  Department of Political Science
- Bunche Hall
- Los Angeles, CA 90095
+ Concordia College
+ Moorhead, MN 56562
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jieunspark.github.io" # the base hostname & protocol for your site
 github_username:  jieunspark
